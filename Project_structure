@@ -1,0 +1,51 @@
+Zepto Sales Analysis using SQL
+
+Project Overview:
+This project analyzes Zepto sales data using PostgreSQL to derive business insights, identify sales trends, and evaluate product performance.
+
+Objectives:
+Analyze sales performance and revenue trends.
+Identify top-selling products and categories.
+Evaluate customer purchasing behavior.
+Generate business insights using SQL queries.
+
+The dataset contains:
+Product information
+Category details
+Sales transactions
+Revenue and quantity sold
+
+Tools & Technologies:
+PostgreSQL
+SQL
+GitHub
+pgAdmin
+
+Key SQL Concepts Used:
+SELECT Statements
+JOINs
+Aggregate Functions
+GROUP BY
+ORDER BY
+Subqueries
+Common Table Expressions (CTEs)
+Window Functions
+
+Analysis Performed:
+Total Revenue Analysis
+Top Selling Products
+Category-wise Sales Performance
+Monthly Sales Trends
+Product Ranking Analysis
+
+Project Structure:
+dataset/ – Raw data files
+queries/ – SQL scripts
+results/ – Output screenshots
+README.md – Project documentation
+
+Key Insights:
+Identified the highest revenue-generating products.
+Analyzed category-wise sales contribution.
+Found trends in customer purchasing patterns.
+Generated actionable business recommendations.
